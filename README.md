@@ -1,11 +1,13 @@
-# MyReads - An Book Tracking usint React
+# MyReads - An Book Tracking using React
 
 This is a project repo for Front-End Nanodegree Project. It is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. In this application, the main page displays a list of "shelves" each of which contains a number of books. The three shelves or categories shown are:
 
 * Currently Reading
 * Want to Read
 * Read
+
 You can search the books and categorize them according to your need. You can move your books from one shelf to the other.
+For reference to search, check the Search_Terms file.
 
 ## Run the App
 
